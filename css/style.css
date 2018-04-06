@@ -1,0 +1,69 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: #fff;
+	text-align: center;
+	background-size: cover;
+	background-image: url('https://images8.alphacoders.com/473/thumb-1920-473471.jpg');
+}
+.img {
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+	
+	
+
+.box {
+	position: absolute;
+	top: 400px;
+	left: 0;
+	right: 0;
+}
+.box-1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+main h1 {
+	font-size: 40px;
+	text-transform: uppercase;
+	margin: 200px 0 500px 0;
+
+}
+main h2 {
+	font-style: italic;
+	font-size: 30px;
+
+}
+main h3 {
+  	margin-bottom: 50px;
+
+}
+main .trigger, .tweeter {
+	background-color: #2edcff;
+	color: #fff;
+	width: 350px;
+	height: 50px;
+	padding: 10px 30px;
+	font-size: 20px;
+	border: 1px solid #fff;
+	cursor: pointer;
+	opacity: 0.9;
+	letter-spacing: 2px;
+	margin-bottom: 100px;
+	margin: 0 auto;
+}
+main .tweeter {
+	margin-top: 30px;
+}
+main .tweet {
+	color: #fff;
+	text-decoration: none;
+
+}
