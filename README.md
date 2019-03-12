@@ -10,4 +10,5 @@ Rozwiązania, technologie i narzędzia:
    * JavaScript
    * AJAX
    * API
+   
 <a href="https://michalmatysiak.github.io/Ajax-QuoteMachine/">live preview</a>
